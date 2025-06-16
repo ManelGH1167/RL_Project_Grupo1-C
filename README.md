@@ -2,10 +2,10 @@
 ## Proyecto Final de programacion para la asignatura de **Aprendizaje por Refuerzo** del master en IA en la Universidad Interacional de Valencia (VIU)
 
 *   Alumno 1:
-*   Alumno 2: Francisco Manzanas Mogrovejo
-*   Alumno 3: Abdelilah BENALI
-*   Alumno 4: Jair Cuesta Cifuentes
-*   Alumno 5: Manel González Huete
+*   Alumno 2: Abdelilah BENALI
+*   Alumno 3: Jair Cuesta Cifuentes
+*   Alumno 4: Manel González Huete
+*   Alumno 5: Francisco Manzanas Mogrovejo
 
 > Fecha de entrga : 7-July-2025
 
@@ -16,7 +16,7 @@
 
 2º Crear un entorno en CONDA utilizando las librerias en *requirements.txt*
 
-3º Ejecutar el notebook de Python con este entorno
+3º Ejecutar el notebook de Python con este entorno desde el paso 3 (paso 1 y 2 no son necesarios, al menos en local)
 
 ------
 
