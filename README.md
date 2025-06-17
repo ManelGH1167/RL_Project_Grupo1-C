@@ -15,6 +15,7 @@
 1º Instalar .exe de la carpeta */to_install*
 
 2º Crear un entorno en CONDA utilizando las librerias en *requirements.txt*
+   (Si ha problemas este fichero se puede hacer una llamada a "install.bat")
 
 3º Ejecutar el notebook de Python con este entorno desde el paso 3 (paso 1 y 2 no son necesarios, al menos en local)
 
