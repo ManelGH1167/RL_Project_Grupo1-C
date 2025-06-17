@@ -1,0 +1,43 @@
+📦 1. Desinstala TensorFlow actual
+pip uninstall tensorflow
+
+
+
+💡 2. Instala la versión con soporte GPU
+pip install tensorflow-gpu==2.5.0
+
+
+
+📥 3. Instala CUDA 11.2 y cuDNN 8.1 (lo más importante)
+
+A. 🔗 Descargar CUDA 11.2
+- Ve a: https://developer.nvidia.com/cuda-11.2.0-download-archive
+
+- Elige tu sistema operativo (ej. Windows 10/11 → exe local)
+
+- Instálalo (puedes tener múltiples versiones de CUDA instaladas)
+
+B. 🔗 Descargar cuDNN 8.1 (para CUDA 11.2)
+- Ve a: https://developer.nvidia.com/rdp/cudnn-archive
+
+- Busca cuDNN 8.1.1 for CUDA 11.2
+
+- Descarga la versión ZIP para Windows
+
+- Extrae y copia el contenido en la carpeta de instalación de CUDA 11.2, por ejemplo: "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2
+" 
+    - bin → a bin
+    - lib → a lib
+    - include → a include
+
+
+
+⚙️ 4. Configura las variables de entorno
+Agrega esto a las variables del sistema (PATH):
+- C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin
+- C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp
+Luego, reinicia tu PC.
+
+
+
+✅ 5. Verifica desde Python
