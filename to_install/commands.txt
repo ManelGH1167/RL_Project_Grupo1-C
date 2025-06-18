@@ -1,0 +1,29 @@
+
+===== GIT =====
+** Para hacer un nuevo commit: 
+    - git add .
+    - git commit -m -a "texto"
+    - git push origin main
+
+
+** Para bajarme la ultima version:
+    - git pull origin main
+
+
+
+
+
+====== ENTORNO ======
+**  1. Crear entorno: 
+    - conda create --name venv_apr 
+                OR
+    - conda create --prefix ./venv_apr python=3.9 -y
+
+
+**  2. Activar entorno en local: 
+    - conda activate ./venv_apr
+
+** 3. Instalar librerias en entrono: 
+    - install.bat
+            OR
+    - pip install -r requirements_v2.txt
