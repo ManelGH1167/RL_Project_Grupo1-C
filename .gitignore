@@ -1,0 +1,20 @@
+# Ignorar entorno virtual de Python
+venv_apr/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Archivos temporales y logs
+*.tmp
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos del sistema (Windows y macOS)
+Thumbs.db
+.DS_Store
+
+# Configuración de editores comunes
+.vscode/
+.idea/
