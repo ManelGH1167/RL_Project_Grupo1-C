@@ -1,0 +1,39 @@
+# Dependencias de Jupyter
+notebook==6.4.12
+nbclient==0.5.13
+jupyter-core==4.11.2
+jupyter-server==1.18.1
+jupyter-client==7.3.5
+traitlets==5.4.0
+packaging==21.3
+ipykernel==6.15.0
+
+# Proyecto DQN
+tensorflow==2.8.4
+keras==2.8.0
+keras-rl2==1.0.5
+gym==0.17.3
+ale-py==0.7.5
+autorom==0.4.2
+autorom-accept-rom-license==0.6.1
+agents==1.4.0
+numpy==1.22.4
+matplotlib==3.4.3
+tqdm
+opencv-python==4.6.0.66
+scipy==1.7.3
+pandas==1.4.3
+torch==2.0.1
+
+# TensorFlow
+absl-py==1.0.0
+grpcio==1.48.2
+protobuf==3.19.6
+tensorflow-io-gcs-filesystem==0.31.0
+tensorboard==2.8.0
+tensorboard-plugin-wit==1.8.1
+tensorflow-estimator==2.8.0
+
+# Otros
+psutil==5.9.4
+werkzeug==3.0.6
