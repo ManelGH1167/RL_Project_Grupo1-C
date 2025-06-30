@@ -1,0 +1,12 @@
+{
+  "episode": 1600,
+  "global_steps": 897497,
+  "epsilon": 0.1,
+  "timestamp": "2025-06-28 18:56:56",
+  "policy": {
+    "value_max": 1.0,
+    "value_min": 0.1,
+    "value_test": 0.05,
+    "nb_steps": 500000
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "episode": 2855,
+  "avg_reward": 25.12,
+  "best_avg_reward": 25.12,
+  "timestamp": 1751152075,
+  "consecutive_target_episodes": 1840,
+  "episodes_at_target": 1937
+}
