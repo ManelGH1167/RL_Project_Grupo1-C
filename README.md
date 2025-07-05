@@ -11,6 +11,10 @@
 
 -----
 
+### CODIGO DISPONIBLE EN:
+https://github.com/ManelGH1167/RL_Project_Grupo1-C.git
+
+-----
 ### PASOS PARA EJECUTAR EL PROYECTO
 1º Instalar .exe de la carpeta */to_install*
 
