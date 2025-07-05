@@ -5,7 +5,7 @@
 * Alumno 2: Cuesta Cifuentes, Jair 
 * Alumno 3: González Huete, Manel
 * Alumno 4: Manzanas Mogrovejo, Francisco
-* Alumno 5: Pascual, Guadalupe
+* Alumno 5: Pascual Redondo, Guadalupe
 
 > Fecha de entrga : 7-July-2025
 
