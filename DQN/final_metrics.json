@@ -1,0 +1,8 @@
+{
+  "total_episodes": 3301,
+  "final_avg_reward": 26.2,
+  "target_reached": true,
+  "best_avg_reward": 26.2,
+  "episodes_at_target": 2033,
+  "consecutive_target_episodes": 1685
+}
